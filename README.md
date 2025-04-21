@@ -7,7 +7,7 @@
 
 ## 📦 Возможности
 
-- 🛰️ UDP Flood + Amplification (NTP, DNS, SSDP и др.)
+- 🔜 🛰️ UDP Flood + Amplification (NTP, DNS, SSDP и др.) 🔜
 - 🌐 HTTP POST/GET — поддержка 3 техник (от базовой до защищённой)
 - 🔄 IP Spoofing для UDP
 - 🎭 User-Agent маскировка
@@ -20,24 +20,20 @@
 
 1. Клонируй репозиторий:
    ```bash
-    git clone https://github.com/vlagik/dos_bot.git
+    git clone https://github.com/vlagik/dos_telegram_bot.git
     cd dos_bot
-
 
 2. Установи зависимости:
 
     pip install -r requirements.txt
 
-
 3. Установи токен бота:
 
     BOT_TOKEN="ваш_токен_бота"
 
-
 4. Запустить:
 
     python bot.py
-
 
 
 ## 📁 Структура
