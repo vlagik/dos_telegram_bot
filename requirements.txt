@@ -1,0 +1,4 @@
+aiogram==3.18.0
+fake_useragent==2.0.3
+requests==2.32.3
+aiohttp==3.11.13

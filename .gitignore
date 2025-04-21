@@ -1,0 +1,29 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 🔧 Environments
+venv/
+.env
+*.env
+
+# 📁 Logs
+
+
+# ⚙️ IDE settings
+.vscode/
+.idea/
+
+# 🔐 Sensitive config
+config.py
+*.secret
+
+# 💥 Output/temp
+*.out
+*.tmp
+*.bak
